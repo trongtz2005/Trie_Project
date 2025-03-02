@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Hocki3\DSA\23120100\source\Trie\Trie\main.cpp(39,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Trie.vcxproj -> E:\Hocki3\DSA\23120100\source\Trie\x64\Debug\Trie.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
